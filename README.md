@@ -20,12 +20,9 @@ Organize your reading experience by diving into specific topics of interest.
 ### 🔄 Data Synthesis
 
 - **Innovations in Synthetic Data Generation**: [Read More](#)
-- **Applications of Data Synthesis in Machine Learning**: [Read More](#)
-
 ### 🤖 AI Agents
 
 - **Autonomous Agents in Complex Environments**: [Read More](#)
-- **Ethical Considerations in Agent Development**: [Read More](#)
 
 ### 🧠 Retrieval-Augmented Generation (RAG)
 
