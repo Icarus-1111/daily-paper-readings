@@ -12,27 +12,30 @@ Welcome to my daily paper digest! This repository is a curated collection of pap
 
 ---
 
-
 ## 🗂️ Topic-Wise Exploration
 
 Organize your reading experience by diving into specific topics of interest.
 
-### 🔄 Data Synthesis
+### 🔄 Data Augmentation
 
-- **Innovations in Synthetic Data Generation**: [Read More](#)
-### 🤖 AI Agents
+- **Techniques in Data Augmentation**: [Read More](#)
+- **Applications of Data Augmentation in Machine Learning**: [Read More](#)
 
-- **Autonomous Agents in Complex Environments**: [Read More](#)
+### 🤖 AI Agents in Data Synthesis
+
+- **Role of Autonomous Agents in Data Synthesis**: [Read More](#)
+- **Strategies for Agent-Based Data Generation**: [Read More](#)
 
 ### 🧠 Retrieval-Augmented Generation (RAG)
 
-- **Enhancing Information Retrieval with RAG**: [Read More](#)
-- **Case Studies and Applications of RAG**: [Read More](#)
+- **Timing Detection in RAG**: [Read More](#)
+- **Optimizing RAG for Efficient Information Retrieval**: [Read More](#)
 
 ---
 
 ## 🛠️ Tools & Methods
 
+- **Agent Frameworks**: Exploring VLLM, LLaMA Factory, and other agent frameworks
 - **Annotation Tools**: Highlighting key findings and methodologies
 - **Collaboration Platforms**: Engaging with the academic community through discussions and reviews
 
