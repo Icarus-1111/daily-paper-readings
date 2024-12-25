@@ -28,7 +28,7 @@ Organize your reading experience by diving into specific topics of interest.
 
 ### 🧠 Retrieval-Augmented Generation (RAG)
 
-- **Timing Detection in RAG**: [Read More](#)
+- **- **Time-Aware in RAG**: [Read More](#)
 - **Optimizing RAG for Efficient Information Retrieval**: [Read More](#)
 
 ---
