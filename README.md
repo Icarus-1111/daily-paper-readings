@@ -1,6 +1,6 @@
-# 📖 Daily Paper Digest
+# 📖 Daily Academic Insights
 
-Welcome to my daily paper digest! This repository is a curated collection of papers I've read, focusing on cutting-edge research in Data Synthesis, Agents, and Retrieval-Augmented Generation (RAG). Dive into the world of academic exploration with me!
+Welcome to my daily academic insights repository! This repository is a curated collection of papers and articles I've read, focusing on cutting-edge research in Data Augmentation, AI Agents in Data Synthesis, and Retrieval-Augmented Generation (RAG). Dive into the world of academic exploration with me!
 
 ---
 
