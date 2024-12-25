@@ -12,23 +12,6 @@ Welcome to my daily paper digest! This repository is a curated collection of pap
 
 ---
 
-## 📅 Reading Timeline
-
-Stay updated with my reading journey. Each entry includes a brief summary and personal insights.
-
-### December 2024
-
-- **24-Dec-2024**: 
-  - **Papers Read**: 3
-  - **Summary**: Explored advancements in LLMs and their applications in real-world scenarios.
-  - [Detailed Notes](#)
-
-- **23-Dec-2024**:
-  - **Papers Read**: 2
-  - **Summary**: Focused on AI ethics and implications of autonomous agents.
-  - [Detailed Notes](#)
-
----
 
 ## 🗂️ Topic-Wise Exploration
 
@@ -58,6 +41,23 @@ Organize your reading experience by diving into specific topics of interest.
 
 ---
 
+## 📅 Reading Timeline
+
+Stay updated with my reading journey. Each entry includes a brief summary and personal insights.
+
+### December 2024
+
+- **24-Dec-2024**: 
+  - **Papers Read**: 3
+  - **Summary**: Explored advancements in LLMs and their applications in real-world scenarios.
+  - [Detailed Notes](#)
+
+- **23-Dec-2024**:
+  - **Papers Read**: 2
+  - **Summary**: Focused on AI ethics and implications of autonomous agents.
+  - [Detailed Notes](#)
+
+---
 ## 🤝 Join the Journey
 
 Feel free to contribute by suggesting papers or sharing your insights. Let's expand our understanding together!
